@@ -1,2 +1,2 @@
-print("this is amardini")
+print("this is mardini")
 print("mardini")
