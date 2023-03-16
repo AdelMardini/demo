@@ -1,3 +1,3 @@
-print("this is mardini")
-print("adeladel3")
+print("this is amardini")
+print("adeladel344")
 
