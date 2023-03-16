@@ -1,3 +1,5 @@
+<<<<<<< Updated upstream
 print("this is amardini")
-print("adeladel344")
+print("adesfdgsdgs")
+
 
